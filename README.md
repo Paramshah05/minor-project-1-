@@ -1,4 +1,5 @@
 #"weekly project"
+
 1 mark analyser
 problem statment : to analysis marks of n number of student
 first i have taken input from user that how many student are there  then i have made a list where the marks of student will be saved then i use range function to take marks of induivual student and append then into the list then i have make an array which store that list then from that array i have calculated the summ,avg,max,min marks from the list 
