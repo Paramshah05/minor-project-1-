@@ -1,4 +1,4 @@
-#"weekly project"
+# "weekly project"
 
 1 mark analyser
 problem statment : to analysis marks of n number of student
